@@ -1,0 +1,22 @@
+{
+	"parent": "minecraft:mcpaint/display_large",
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"1": "item/mcpaint/canvas_4x2"
+	},
+	"elements": [
+		{
+			"from": [-8, 0, 15.5],
+			"to": [24, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 8], "texture": "#1"},
+				"east": {"uv": [0, 8, 0.25, 16], "texture": "#1"},
+				"south": {"uv": [0, 8, 16, 16], "texture": "#1"},
+				"west": {"uv": [15.75, 8, 16, 16], "texture": "#1"},
+				"up": {"uv": [0, 8, 16, 8.25], "texture": "#1"},
+				"down": {"uv": [0, 15.75, 16, 16], "texture": "#1"}
+			}
+		}
+	]
+}

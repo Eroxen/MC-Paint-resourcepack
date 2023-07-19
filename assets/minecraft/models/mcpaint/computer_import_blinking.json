@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:mcpaint/computer_desktop",
+	"textures": {
+		"1": "item/mcpaint/computer_front_import_blinking"
+	}
+}

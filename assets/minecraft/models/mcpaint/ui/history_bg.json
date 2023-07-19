@@ -1,0 +1,15 @@
+{
+	"parent": "minecraft:mcpaint/display",
+	"textures": {
+		"0": "item/mcpaint/history"
+	},
+	"elements": [
+		{
+			"from": [8, 0, 16],
+			"to": [16, 4, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 8], "texture": "#0"}
+			}
+		}
+	]
+}
