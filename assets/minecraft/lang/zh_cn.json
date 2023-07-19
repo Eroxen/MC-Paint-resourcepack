@@ -1,7 +1,6 @@
 {
   "mcpaint.message.resource_pack_not_installed":"",
   "mcpaint.message.resource_pack_version": "%s",
-  "mcpaint.message.resource_pack_version.0.7": "资源包v0.7安装成功. 如果你在重新加载资源包后遇到移位画的问题, 你可以运行 %2$s 来重新加载附近的画和画架台.",
 
   "block.mcpaint.computer.desktop.files": "文件",
   "block.mcpaint.computer.desktop.import": "导入",

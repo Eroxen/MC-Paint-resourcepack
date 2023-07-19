@@ -4,7 +4,6 @@
 
 "mcpaint.message.resource_pack_not_installed":"",
 "mcpaint.message.resource_pack_version": "%s",
-"mcpaint.message.resource_pack_version.0.7": "la version 0.7 du Resource pack a été installée avec succès. Si vous avez des problèmes avec des peintures décalées après le rechargement du resource packs, vous pouvez entrer %2$s pour recharger les peintures et chevalets à proximité",
 "block.mcpaint.computer.desktop.files": "Fichier",
 "block.mcpaint.computer.desktop.import": "Importer",
 "block.mcpaint.computer.desktop.planet_minecraft": "PMC",
