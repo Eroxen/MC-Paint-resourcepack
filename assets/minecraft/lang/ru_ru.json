@@ -2,7 +2,7 @@
   "mcpaint.message.resource_pack_mcpaint_icon": "%2$s",
   "mcpaint.message.resource_pack_not_installed": "",
   "mcpaint.message.resource_pack_version": "%s",
-  "mcpaint.message.resource_pack_version.0.8": "Ресурспак v0.8 установлен! %2$s %3$s",
+  "mcpaint.message.resource_pack_version.0.8": "Ресурспак v0.8.1 установлен! %2$s %3$s",
   "mcpaint.message.resource_pack_reload": "[Перезагрузить Картины]",
   "mcpaint.message.resource_pack_reload.info": "Если Студии Рисования или Кастомные Картины \"сместились\", используйте /trigger mcpaint.reload, чтобы перезагрузить ближайшие текстовые дисплеи(тем самым Студии и Картины).",
   "mcpaint.message.resource_pack_dismiss": "[Игнорировать]",

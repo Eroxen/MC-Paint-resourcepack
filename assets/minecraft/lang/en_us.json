@@ -2,7 +2,7 @@
   "mcpaint.message.resource_pack_mcpaint_icon":"%2$s",
   "mcpaint.message.resource_pack_not_installed":"",
   "mcpaint.message.resource_pack_version": "%s",
-  "mcpaint.message.resource_pack_version.0.8": "RP v0.8 installed! %2$s %3$s",
+  "mcpaint.message.resource_pack_version.0.8": "RP v0.8.1 installed! %2$s %3$s",
   "mcpaint.message.resource_pack_reload": "[Reload Paintings]",
   "mcpaint.message.resource_pack_reload.info": "If studios or paintings have shifted or off-centered canvases, you can use /trigger mcpaint.reload to reload nearby text displays.",
   "mcpaint.message.resource_pack_dismiss": "[Dismiss]",
