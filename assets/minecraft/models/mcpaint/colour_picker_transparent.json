@@ -1,6 +1,0 @@
-{
-	"parent": "minecraft:mcpaint/colour_picker_fg",
-	"textures": {
-		"0": "item/mcpaint/colour_picker_transparent"
-	}
-}

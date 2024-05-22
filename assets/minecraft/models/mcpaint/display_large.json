@@ -1,9 +1,0 @@
-{
-    "display": {
-        "fixed": {
-            "rotation": [ 0, 0, 0 ],
-            "translation": [ -8, 8, -8 ],
-            "scale": [ 2, 2, 2 ]
-        }
-    }
-}
