@@ -113,7 +113,19 @@
                 "\u0400\u0000",
                 "\u0401\u0000",
                 "\u0402\u0000",
-                "\u0403\u0404"
+                "\u0000\u0000"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcpaint:font/studio_ui/tools/background.png",
+            "height": 32,
+            "ascent": 16,
+            "chars": [
+                "\u0000\u0000\u0000\u0000",
+                "\u0000\u0000\u0000\u0000",
+                "\u0000\u0000\u0000\u0000",
+                "\u0403\u0405\u0404\u0000"
             ]
         },
         {
@@ -132,6 +144,18 @@
             "ascent": 5,
             "chars": [
                 "\u0420\u0421"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcpaint:font/studio_ui/tools/pen_subtools.png",
+            "height": 16,
+            "ascent": 9,
+            "chars": [
+                "\u0500\u0501\u0502\u0503",
+                "\u0504\u0505\u0506\u0507",
+                "\u0508\u0509\u050a\u050b",
+                "\u050c\u050d\u050e\u050f"
             ]
         }
     ]
