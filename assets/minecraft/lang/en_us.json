@@ -29,6 +29,7 @@
   "mcpaint.error.cannot_craft_custom_painting": "You need to have a %s to do this.",
   "mcpaint.error.not_saved_yet": "Paintings must to be saved to a file before exporting.",
   "mcpaint.error.copy_by_sneaking": "Hold %s while interacting to copy.",
+  "mcpaint.error.load_while_unsaved": "The current file has unsaved changes. Discard changes and load anyway?",
   "mcpaint.ui.button.ok": "Confirm",
   "mcpaint.ui.button.cancel": "Cancel",
   "mcpaint.ui.button.set_name_from_item": "Set name from %s",
@@ -53,9 +54,16 @@
   "mcpaint.ui.button.decrease_block_height": "Decrease block height",
   "mcpaint.ui.button.increase_pixel_height": "Increase pixel height",
   "mcpaint.ui.button.decrease_pixel_height": "Decrease pixel height",
+  "mcpaint.ui.button.previous_page": "Previous page",
+  "mcpaint.ui.button.next_page": "Next page",
+  "mcpaint.ui.button.load_file": "Load file",
+  "mcpaint.ui.button.delete_file": "Delete file",
   "mcpaint.message.saved": "Saved as: \"%s\".",
+  "mcpaint.message.loaded_from_file": "Loaded from: \"%s\".",
   "mcpaint.message.custom_painting_will_show_text": "Right-clicking with an empty hand will display:",
+  "mcpaint.message.confirm_delete_file": "Are you sure you want to delete \"%s\"? This action cannot be undone.",
   "mcpaint.studio_tool.pen": "Pen",
   "mcpaint.studio_tool.eyedropper": "Eyedropper",
-  "mcpaint.format.work_by_author": "\"%s\" by %s"
+  "mcpaint.format.work_by_author": "\"%s\" by %s",
+  "mcpaint.format.page_n_of": "%s/%s"
 }
