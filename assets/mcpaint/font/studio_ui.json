@@ -13,7 +13,7 @@
             "\u2020": 20,
             "\u2023": 23,
             "\u2026": 26,
-            "\u2128": 128
+            "\u2256": 256
           }
         },
         {
@@ -166,6 +166,24 @@
             "ascent": -3,
             "chars": [
                 "\u0303"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcpaint:font/studio_ui/import_code/not_ok.png",
+            "height": 128,
+            "ascent": -3,
+            "chars": [
+                "\u0304"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcpaint:font/studio_ui/import_code/ok.png",
+            "height": 128,
+            "ascent": -3,
+            "chars": [
+                "\u0305"
             ]
         }
     ]
