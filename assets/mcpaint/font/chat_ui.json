@@ -4,7 +4,7 @@
             "type": "bitmap",
             "file": "mcpaint:font/setting_switch.png",
             "height": 8,
-            "ascent": 7,
+            "ascent": 8,
             "chars": [
                 "\u0001",
                 "\u0002"
