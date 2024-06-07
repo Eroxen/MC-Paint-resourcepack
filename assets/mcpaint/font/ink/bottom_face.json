@@ -23,19 +23,152 @@
       }
     },
     {
-      "type": "ttf",
-      "file": "mcpaint:ink.ttf",
-      "shift": [
-        0,
-        2
-      ],
-      "size": 12.5,
-      "oversample": 2,
-      "skip": ""
+      "type": "bitmap",
+      "file": "mcpaint:font/ink/bottom_face/seg/1.png",
+      "height": 10,
+      "ascent": 8,
+      "chars": [
+        "A"
+      ]
     },
     {
       "type": "bitmap",
-      "file": "mcpaint:font/cjk/0.png",
+      "file": "mcpaint:font/ink/bottom_face/seg/2.png",
+      "height": 10,
+      "ascent": 8,
+      "chars": [
+        "B"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcpaint:font/ink/bottom_face/seg/3.png",
+      "height": 10,
+      "ascent": 8,
+      "chars": [
+        "C"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcpaint:font/ink/bottom_face/seg/4.png",
+      "height": 10,
+      "ascent": 8,
+      "chars": [
+        "D"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcpaint:font/ink/bottom_face/seg/5.png",
+      "height": 10,
+      "ascent": 8,
+      "chars": [
+        "E"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcpaint:font/ink/bottom_face/seg/6.png",
+      "height": 10,
+      "ascent": 8,
+      "chars": [
+        "F"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcpaint:font/ink/bottom_face/seg/7.png",
+      "height": 10,
+      "ascent": 8,
+      "chars": [
+        "G"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcpaint:font/ink/bottom_face/seg/8.png",
+      "height": 10,
+      "ascent": 8,
+      "chars": [
+        "H"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcpaint:font/ink/bottom_face/seg/9.png",
+      "height": 10,
+      "ascent": 8,
+      "chars": [
+        "I"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcpaint:font/ink/bottom_face/seg/10.png",
+      "height": 10,
+      "ascent": 8,
+      "chars": [
+        "J"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcpaint:font/ink/bottom_face/seg/11.png",
+      "height": 10,
+      "ascent": 8,
+      "chars": [
+        "K"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcpaint:font/ink/bottom_face/seg/12.png",
+      "height": 10,
+      "ascent": 8,
+      "chars": [
+        "L"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcpaint:font/ink/bottom_face/seg/13.png",
+      "height": 10,
+      "ascent": 8,
+      "chars": [
+        "M"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcpaint:font/ink/bottom_face/seg/14.png",
+      "height": 10,
+      "ascent": 8,
+      "chars": [
+        "N"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcpaint:font/ink/bottom_face/seg/15.png",
+      "height": 10,
+      "ascent": 8,
+      "chars": [
+        "O"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcpaint:font/ink/bottom_face/seg/16.png",
+      "height": 10,
+      "ascent": 8,
+      "chars": [
+        "P"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcpaint:font/ink/bottom_face/cjk/0.png",
       "height": 10,
       "ascent": 8,
       "chars": [
@@ -75,7 +208,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mcpaint:font/cjk/1.png",
+      "file": "mcpaint:font/ink/bottom_face/cjk/1.png",
       "height": 10,
       "ascent": 8,
       "chars": [
@@ -115,7 +248,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mcpaint:font/cjk/2.png",
+      "file": "mcpaint:font/ink/bottom_face/cjk/2.png",
       "height": 10,
       "ascent": 8,
       "chars": [
@@ -155,7 +288,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mcpaint:font/cjk/3.png",
+      "file": "mcpaint:font/ink/bottom_face/cjk/3.png",
       "height": 10,
       "ascent": 8,
       "chars": [
@@ -195,7 +328,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mcpaint:font/cjk/4.png",
+      "file": "mcpaint:font/ink/bottom_face/cjk/4.png",
       "height": 10,
       "ascent": 8,
       "chars": [
@@ -235,7 +368,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mcpaint:font/cjk/5.png",
+      "file": "mcpaint:font/ink/bottom_face/cjk/5.png",
       "height": 10,
       "ascent": 8,
       "chars": [
@@ -275,7 +408,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mcpaint:font/cjk/6.png",
+      "file": "mcpaint:font/ink/bottom_face/cjk/6.png",
       "height": 10,
       "ascent": 8,
       "chars": [
@@ -315,7 +448,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mcpaint:font/cjk/7.png",
+      "file": "mcpaint:font/ink/bottom_face/cjk/7.png",
       "height": 10,
       "ascent": 8,
       "chars": [
@@ -355,7 +488,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mcpaint:font/cjk/8.png",
+      "file": "mcpaint:font/ink/bottom_face/cjk/8.png",
       "height": 10,
       "ascent": 8,
       "chars": [
@@ -395,7 +528,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mcpaint:font/cjk/9.png",
+      "file": "mcpaint:font/ink/bottom_face/cjk/9.png",
       "height": 10,
       "ascent": 8,
       "chars": [
@@ -435,7 +568,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mcpaint:font/cjk/10.png",
+      "file": "mcpaint:font/ink/bottom_face/cjk/10.png",
       "height": 10,
       "ascent": 8,
       "chars": [
@@ -475,7 +608,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mcpaint:font/cjk/11.png",
+      "file": "mcpaint:font/ink/bottom_face/cjk/11.png",
       "height": 10,
       "ascent": 8,
       "chars": [
@@ -515,7 +648,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mcpaint:font/cjk/12.png",
+      "file": "mcpaint:font/ink/bottom_face/cjk/12.png",
       "height": 10,
       "ascent": 8,
       "chars": [
@@ -555,7 +688,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mcpaint:font/cjk/13.png",
+      "file": "mcpaint:font/ink/bottom_face/cjk/13.png",
       "height": 10,
       "ascent": 8,
       "chars": [
@@ -595,7 +728,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mcpaint:font/cjk/14.png",
+      "file": "mcpaint:font/ink/bottom_face/cjk/14.png",
       "height": 10,
       "ascent": 8,
       "chars": [
@@ -635,7 +768,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mcpaint:font/cjk/15.png",
+      "file": "mcpaint:font/ink/bottom_face/cjk/15.png",
       "height": 10,
       "ascent": 8,
       "chars": [
@@ -675,7 +808,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mcpaint:font/cjk/16.png",
+      "file": "mcpaint:font/ink/bottom_face/cjk/16.png",
       "height": 10,
       "ascent": 8,
       "chars": [
@@ -715,7 +848,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mcpaint:font/cjk/17.png",
+      "file": "mcpaint:font/ink/bottom_face/cjk/17.png",
       "height": 10,
       "ascent": 8,
       "chars": [
@@ -755,7 +888,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mcpaint:font/cjk/18.png",
+      "file": "mcpaint:font/ink/bottom_face/cjk/18.png",
       "height": 10,
       "ascent": 8,
       "chars": [
@@ -795,7 +928,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mcpaint:font/cjk/19.png",
+      "file": "mcpaint:font/ink/bottom_face/cjk/19.png",
       "height": 10,
       "ascent": 8,
       "chars": [
@@ -835,7 +968,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mcpaint:font/cjk/20.png",
+      "file": "mcpaint:font/ink/bottom_face/cjk/20.png",
       "height": 10,
       "ascent": 8,
       "chars": [
@@ -875,7 +1008,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mcpaint:font/cjk/21.png",
+      "file": "mcpaint:font/ink/bottom_face/cjk/21.png",
       "height": 10,
       "ascent": 8,
       "chars": [
@@ -915,7 +1048,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mcpaint:font/cjk/22.png",
+      "file": "mcpaint:font/ink/bottom_face/cjk/22.png",
       "height": 10,
       "ascent": 8,
       "chars": [
@@ -955,7 +1088,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mcpaint:font/cjk/23.png",
+      "file": "mcpaint:font/ink/bottom_face/cjk/23.png",
       "height": 10,
       "ascent": 8,
       "chars": [
@@ -995,7 +1128,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mcpaint:font/cjk/24.png",
+      "file": "mcpaint:font/ink/bottom_face/cjk/24.png",
       "height": 10,
       "ascent": 8,
       "chars": [
@@ -1035,7 +1168,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mcpaint:font/cjk/25.png",
+      "file": "mcpaint:font/ink/bottom_face/cjk/25.png",
       "height": 10,
       "ascent": 8,
       "chars": [
@@ -1075,7 +1208,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mcpaint:font/cjk/26.png",
+      "file": "mcpaint:font/ink/bottom_face/cjk/26.png",
       "height": 10,
       "ascent": 8,
       "chars": [
@@ -1115,7 +1248,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mcpaint:font/cjk/27.png",
+      "file": "mcpaint:font/ink/bottom_face/cjk/27.png",
       "height": 10,
       "ascent": 8,
       "chars": [
@@ -1155,7 +1288,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mcpaint:font/cjk/28.png",
+      "file": "mcpaint:font/ink/bottom_face/cjk/28.png",
       "height": 10,
       "ascent": 8,
       "chars": [
@@ -1195,7 +1328,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mcpaint:font/cjk/29.png",
+      "file": "mcpaint:font/ink/bottom_face/cjk/29.png",
       "height": 10,
       "ascent": 8,
       "chars": [
@@ -1235,7 +1368,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mcpaint:font/cjk/30.png",
+      "file": "mcpaint:font/ink/bottom_face/cjk/30.png",
       "height": 10,
       "ascent": 8,
       "chars": [
@@ -1275,7 +1408,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mcpaint:font/cjk/31.png",
+      "file": "mcpaint:font/ink/bottom_face/cjk/31.png",
       "height": 10,
       "ascent": 8,
       "chars": [
