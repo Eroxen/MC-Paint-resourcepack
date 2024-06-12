@@ -99,6 +99,11 @@
   "mcpaint.message.reload_text_displays.cant": "There are no Text Displays to update.",
   "mcpaint.message.welcome.description": "MC Paint %s by Eroxen",
   "mcpaint.message.welcome.thanks": "Thank you for installing MC Paint!\nFor more information, news, feedback,\netc., check out the following links:",
+  "mcpaint.message.contributors.creator": "Datapack Creator",
+  "mcpaint.message.contributors.translators": "Translators",
+  "mcpaint.lang.en_us": "English",
+  "mcpaint.lang.ja_jp": "Japanese",
+  "mcpaint.lang.zh_cn": "Chinese",
   "mcpaint.settings.client.header": "MC Paint client settings",
   "mcpaint.settings.client.send_rp_message.title": "Send Resource Pack Message",
   "mcpaint.settings.client.send_rp_message.info": "Sends a message 10 seconds after joining the game informing you of the status of the installed Resource Pack and an explanation of the /trigger mcpaint.reload command",
@@ -107,8 +112,9 @@
   "mcpaint.studio_tool.pen": "Pen",
   "mcpaint.studio_tool.eyedropper": "Eyedropper",
   "mcpaint.format.work_by_author": "\"%s\" by %s",
+  "mcpaint.format.contributor_contribution": "%s - %s",
   "mcpaint.format.rp_missing": "",
   "mcpaint.format.rp_version": "%s",
-  "mcpaint.format.rp_version.1.0": "RP v1.0 installed! %2$s %3$s",
+  "mcpaint.format.rp_version.1.1": "RP v1.1 installed! %2$s %3$s",
   "mcpaint.format.page_n_of": "%s/%s"
 }

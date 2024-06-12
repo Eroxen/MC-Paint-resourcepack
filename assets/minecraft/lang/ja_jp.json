@@ -106,6 +106,6 @@
   "mcpaint.format.work_by_author": "\"%s\" by %s",
   "mcpaint.format.rp_missing": "",
   "mcpaint.format.rp_version": "%s",
-  "mcpaint.format.rp_version.0.9": "RP v0.9 installed! %2$s %3$s",
+  "mcpaint.format.rp_version.1.1": "RP v1.1 installed! %2$s %3$s",
   "mcpaint.format.page_n_of": "%s/%s"
 }
