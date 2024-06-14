@@ -8,6 +8,7 @@
             "\u1065": -65,
             "\u1045": -45,
             "\u1093": -93,
+            "\u2003": 3,
             "\u2004": 4,
             "\u2005": 5,
             "\u2020": 20,
@@ -184,6 +185,26 @@
             "ascent": -3,
             "chars": [
                 "\u0305"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcpaint:font/studio_ui/process/background.png",
+            "height": 24,
+            "ascent": -13,
+            "chars": [
+                "\u0306"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcpaint:font/studio_ui/process/bar.png",
+            "height": 8,
+            "ascent": -14,
+            "chars": [
+                "\u3000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                "\u3001\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                "\u3002\u3003\u3004\u3005\u3006\u3007\u3008\u0000"
             ]
         }
     ]
