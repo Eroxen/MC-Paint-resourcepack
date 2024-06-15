@@ -206,6 +206,15 @@
                 "\u3001\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
                 "\u3002\u3003\u3004\u3005\u3006\u3007\u3008\u0000"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcpaint:font/studio_ui/copy.png",
+            "height": 64,
+            "ascent": -3,
+            "chars": [
+                "\u0307"
+            ]
         }
     ]
 }
