@@ -49,7 +49,6 @@
   "mcpaint.error.copy_by_sneaking": "Hold %s while interacting to copy.",
   "mcpaint.error.load_while_unsaved": "The current file has unsaved changes. Discard changes and load anyway?",
   "mcpaint.error.new_file_while_unsaved": "The current file has unsaved changes. Discard changes and create a new file anyway?",
-  "mcpaint.error.not_implemented": "This feature is currently not implemented. Keep an eye out for updates!",
   "mcpaint.error.no_permission": "You do not have permissions for this.",
   "mcpaint.error.b64.invalid_header": "This code's header is invalid. Make sure you have copied the right text.",
   "mcpaint.error.b64.expected_zero": "Error while parsing: expected zero",
