@@ -1,0 +1,11 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/potion_overlay",
+        "layer1": "item/lingering_potion"
+    },
+    "overrides": [
+        {"predicate":{"custom_model_data":360000},"model":"mcpaint:item/paint_bucket"},
+        {"predicate":{"custom_model_data":360001},"model":"mcpaint:paint_bucket/ground"}
+    ]
+}
