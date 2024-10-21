@@ -109,6 +109,6 @@
   "mcpaint.format.work_by_author": "\"%s\" за авторством %s",
   "mcpaint.format.rp_missing": "",
   "mcpaint.format.rp_version": "%s",
-  "mcpaint.format.rp_version.1.3": "Ресурспак версии 1.3 установлен! %2$s %3$s",
+  "mcpaint.format.rp_version.1.4": "Ресурспак версии 1.4 установлен! %2$s %3$s",
   "mcpaint.format.page_n_of": "%s/%s"
 }

@@ -1,8 +1,8 @@
 {
+  "item.minecraft.lingering_potion.effect.mcpaint.paint_bucket": "Paint Bucket",
   "item.mcpaint.illegal_item": "Uh oh, you're not supposed to have this.",
   "item.mcpaint.brush": "Brush",
   "item.mcpaint.studio": "Studio",
-  "item.mcpaint.paint_bucket": "Paint Bucket",
   "item.mcpaint.custom_painting": "Custom Painting",
   "item.mcpaint.custom_painting.lore.work_name": "%s",
   "item.mcpaint.custom_painting.lore.author_name": "%s",
@@ -19,6 +19,10 @@
   "item.mcpaint.custom_painting.lore.options.billboard.3": "Billboard: centre",
   "item.mcpaint.custom_painting.lore.options.transparency": "Transparency: %s",
   "item.mcpaint.custom_painting.lore.options.roll": "Roll: %s",
+  "item.mcpaint.custom_painting.lore.options.view_range.0": "View range: short",
+  "item.mcpaint.custom_painting.lore.options.view_range.1": "View range: normal",
+  "item.mcpaint.custom_painting.lore.options.view_range.2": "View range: far",
+  "item.mcpaint.custom_painting.lore.options.view_range.3": "View range: very far",
   "item.mcpaint.copied_custom_painting_data": "Custom Painting Settings",
   "mcpaint.advancements.root.title": "MC Paint!",
   "mcpaint.advancements.root.description": "A datapack by Eroxen!",
@@ -152,6 +156,6 @@
   "mcpaint.format.contributor_contribution": "%s - %s",
   "mcpaint.format.rp_missing": "",
   "mcpaint.format.rp_version": "%s",
-  "mcpaint.format.rp_version.1.3": "RP v1.3 installed! %2$s %3$s",
+  "mcpaint.format.rp_version.1.4": "RP v1.4 installed! %2$s %3$s",
   "mcpaint.format.page_n_of": "%s/%s"
 }
